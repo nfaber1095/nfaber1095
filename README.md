@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on frontend web development
 - 🌱 I’m currently learning HTML/CSS
 - 👯 I’m looking to collaborate on beginner-level projects
-- 📫 How to reach me: nicholasnfaber@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I work full time as an electrician and have a 4 year old German Shepherd
